@@ -5,4 +5,4 @@ const bridge = new Bridge();
 
 const root = document.getElementById('root');
 
-root.innerHTML = bridge.say();;
+root.innerHTML = bridge.say();
