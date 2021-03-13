@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "outDir": "./dist/",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "module": "es6",
+        "target": "ES5",
+        "sourceMap": true,
+        "allowJs": true,
+        "baseUrl": "./src"
+    },
+    "exclude": ["webpack.config.js", "npm.webpack.config.js"],
+    "include": [
+        "src"
+    ]
+}
